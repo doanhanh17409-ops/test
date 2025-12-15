@@ -1,86 +1,20 @@
 {
-  "data": {
-    "answers": [
-      {
-        "_id": "q1",
-        "type": "BLANK",
-        "answers": [{ "text": "cultural exchange" }]
-      },
-      {
-        "_id": "q2",
-        "type": "BLANK",
-        "answers": [{ "text": "current issue" }]
-      },
-      {
-        "_id": "q3",
-        "type": "BLANK",
-        "answers": [{ "text": "leadership skill" }]
-      },
-      {
-        "_id": "q4",
-        "type": "BLANK",
-        "answers": [{ "text": "Gender equality" }]
-      },
-      {
-        "_id": "q5",
-        "type": "BLANK",
-        "answers": [{ "text": "contribution" }]
-      },
-      {
-        "_id": "q6",
-        "type": "BLANK",
-        "answers": [{ "text": "youth volunteering" }]
-      },
-      {
-        "_id": "q7",
-        "type": "BLANK",
-        "answers": [{ "text": "live-streamed" }]
-      },
-      {
-        "_id": "q8",
-        "type": "BLANK",
-        "answers": [{ "text": "working" }]
-      },
-      {
-        "_id": "q9",
-        "type": "BLANK",
-        "answers": [{ "text": "cultural" }]
-      },
-      {
-        "_id": "q10",
-        "type": "BLANK",
-        "answers": [{ "text": "celebration" }]
-      },
-      {
-        "_id": "q11",
-        "type": "BLANK",
-        "answers": [{ "text": "strengthen" }]
-      },
-      {
-        "_id": "q12",
-        "type": "BLANK",
-        "answers": [{ "text": "contribution" }]
-      },
-      {
-        "_id": "q13",
-        "type": "BLANK",
-        "answers": [{ "text": "proposal" }]
-      },
-      {
-        "_id": "q14",
-        "type": "BLANK",
-        "answers": [{ "text": "related" }]
-      },
-      {
-        "_id": "q15",
-        "type": "BLANK",
-        "answers": [{ "text": "representative" }]
-      },
-      {
-        "_id": "q16",
-        "type": "BLANK",
-        "answers": [{ "text": "prosperity" }]
-      }
-    ]
-  }
+  "answers": [
+    "cultural exchange",
+    "current issue",
+    "leadership skill",
+    "Gender equality",
+    "contribution",
+    "youth volunteering",
+    "live-streamed",
+    "working",
+    "cultural",
+    "celebration",
+    "strengthen",
+    "contribution",
+    "proposal",
+    "related",
+    "representative",
+    "prosperity"
+  ]
 }
